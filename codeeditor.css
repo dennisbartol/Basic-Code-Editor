@@ -40,3 +40,11 @@ iframe {
     border: 0; 
     outline: none; 
 }
+
+
+label { 
+    display: flex; 
+    align-items: center; 
+    background-color: #222; 
+    height: 28px;
+}
