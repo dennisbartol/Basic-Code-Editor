@@ -48,3 +48,8 @@ label {
     background-color: #222; 
     height: 28px;
 }
+
+
+.fab , .fa {
+    color: goldenrod;
+}
