@@ -25,6 +25,8 @@ body {
 /* To-do - Add flex: 1 */
 
 textarea { 
+    color: ghostwhite;
+    background: #121212;
     width: 100%; 
     height: 26.5svh;
     padding: 10px 20px; 
